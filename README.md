@@ -36,20 +36,12 @@ Focused on building clean, accessible and modern web experiences.
 
 ---
 
-### 📫 Contact  
-✉️ **alexlislelid@gmail.com**
+### 📫 Contact
 
-<!--
-**AlexanderLislelid/AlexanderLislelid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✉️ **Email:** alexlislelid@gmail.com  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<a href="https://www.linkedin.com/in/alexander-lislelid-270a74333/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+</a>
+</p>
