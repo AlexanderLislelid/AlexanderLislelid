@@ -9,10 +9,10 @@
 
 ---
 
-![HTML & CSS](./bars/html-css.svg)
-![Figma / UI/UX](./bars/figma.svg)
-![Tailwind CSS v4](./bars/tailwind.svg)
-![JavaScript](./bars/javascript.svg)
+![HTML & CSS](./html-css.svg)
+![Figma / UI/UX](./figma.svg)
+![Tailwind CSS v4](./tailwind.svg)
+![JavaScript](./javascript.svg)
 
 <br>
 
