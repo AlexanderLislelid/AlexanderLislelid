@@ -3,25 +3,18 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4f46e5,100:1d4ed8&height=200&section=header&text=Alexander%20Lislelid&fontSize=42&fontColor=f0eeff&fontAlignY=38&desc=Front-End%20Developer%20Student&descSize=16&descAlignY=58&descFontColor=a78bfa)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1000&color=818CF8&center=true&vCenter=true&width=440&lines=Building+clean%2C+accessible+web+experiences;Vanilla+JS+%2B+Tailwind+CSS+v4+enthusiast;UI%2FUX+design+%26+front-end+architecture;Currently+building+Gavel+%26+Yap)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=15&pause=1000&color=818CF8&center=true&vCenter=true&width=440&lines=Building+clean%2C+accessible+web+experiences;Vanilla+JS+%2B+Tailwind+CSS+v4+enthusiast;UI%2FUX+design+%26+front-end+architecture;Currently+building+Gavel)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ⚡ Skills
+![HTML & CSS](./bars/html-css.svg)
+![Figma / UI/UX](./bars/figma.svg)
+![Tailwind CSS v4](./bars/tailwind.svg)
+![JavaScript](./bars/javascript.svg)
 
-```
-HTML & CSS      ████████████████████░░  90%
-Figma / UI/UX   ████████████████████░░░  80%
-Tailwind v4     ██████████████████░░░░  73%
-Git             █████████████████░░░░░  70%
-JavaScript      ████████████████░░░░░░  67%
-```
-
----
-
-## 🛠 Stack
+<br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23a78bfa.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%2360a5fa.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,19 +24,17 @@ JavaScript      ████████████████░░░░░�
 ![Git](https://img.shields.io/badge/Git-%237dd3fc.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-%2394a3b8.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 📊 GitHub Stats
+<br>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AlexanderLislelid&show_icons=true&theme=tokyonight&bg_color=0d0d14&title_color=a78bfa&text_color=c4bfdf&icon_color=818cf8&border_color=2a2040&hide_border=false&rank_icon=github"/>
+<img height="160" src="https://github-readme-stats-seven-theta-70.vercel.app/api?username=AlexanderLislelid&show_icons=true&theme=tokyonight&bg_color=0d0d14&title_color=a78bfa&text_color=c4bfdf&icon_color=818cf8&border_color=2a2040&rank_icon=github&hide_border=false"/>
 &nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=AlexanderLislelid&theme=tokyonight&background=0d0d14&border=2a2040&ring=a78bfa&fire=818cf8&currStreakLabel=c4bfdf&sideLabels=c4bfdf&dates=6b5fa0&currStreakNum=a78bfa&sideNums=818cf8"/>
+<img height="160" src="https://github-readme-stats-seven-theta-70.vercel.app/api/top-langs/?username=AlexanderLislelid&layout=compact&langs_count=6&theme=tokyonight&bg_color=0d0d14&title_color=a78bfa&text_color=c4bfdf&border_color=2a2040&hide_border=false"/>
 
 </div>
 
----
+<br>
 
 ## 🚧 Currently building
 
@@ -52,20 +43,16 @@ JavaScript      ████████████████░░░░░�
 | **[Gavel](https://github.com/AlexanderLislelid)** | Auction house web app | Vanilla JS · Tailwind v4 · Noroff v2 API |
 
 
----
-
 ## 🌱 Currently learning
 
 - Front-end architecture & code organisation
 - Scalable vanilla JS patterns
-- Accessibility best practices
+- Accessibility (a11y) best practices
 
 ## 🤝 Open to
 
 - Beginner-friendly open-source collaboration
 - Feedback on projects and code quality
-
----
 
 ## 📫 Contact
 
