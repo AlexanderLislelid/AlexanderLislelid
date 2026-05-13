@@ -26,13 +26,9 @@
 
 <br>
 
-<div align="center">
-
 <img height="160" src="https://github-readme-stats-seven-theta-70.vercel.app/api?username=AlexanderLislelid&show_icons=true&theme=tokyonight&bg_color=0d0d14&title_color=a78bfa&text_color=c4bfdf&icon_color=818cf8&border_color=2a2040&rank_icon=github&hide_border=false"/>
 &nbsp;
 <img height="160" src="https://github-readme-stats-seven-theta-70.vercel.app/api/top-langs/?username=AlexanderLislelid&layout=compact&langs_count=6&theme=tokyonight&bg_color=0d0d14&title_color=a78bfa&text_color=c4bfdf&border_color=2a2040&hide_border=false"/>
-
-</div>
 
 <br>
 
@@ -40,8 +36,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Gavel](https://github.com/AlexanderLislelid)** | Auction house web app | Vanilla JS · Tailwind v4 · Noroff v2 API |
-
+| **[Gavel](https://github.com/AlexanderLislelid/semester-project-2)** | Auction house web app | Vanilla JS · Tailwind v4 · Noroff v2 API |
 
 ## 🌱 Currently learning
 
