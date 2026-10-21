@@ -19,20 +19,24 @@
 </p>
 
 
-
+<br>
 
 
 
 <div align="center">
+<details>
+<summary><b>GitHub Stats</b></summary>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlexanderLislelid&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9&rank_icon=github" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderLislelid&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=AlexanderLislelid&hide_border=true&background=00000000&ring=6d28d9&fire=818cf8&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
+</details>
 </div>
 
-
+<br>
 
 <div align="center">
 
