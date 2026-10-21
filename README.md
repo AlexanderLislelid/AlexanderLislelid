@@ -10,10 +10,10 @@
 
 
 
-
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-alexlislelid%40gmail.com-%23818cf8?style=flat-square&logo=gmail&logoColor=white)](mailto:alexlislelid@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%234f46e5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-lislelid-270a74333/)
 
-
+</div>
 
