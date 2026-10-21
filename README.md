@@ -18,6 +18,33 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
 </p>
 
+<div align="center">
+<details>
+<summary><b>Latest Projects</b></summary>
+<br>
+
+<table>
+<tr>
+<td width="600" valign="top" align="center">
+
+### Lommefasit
+
+A Norwegian calculator website with simple, fast tools for everyday calculations.
+
+<img width="1038" height="1196" alt="Skjermbilde 2026-10-21 kl  09 37 04" src="https://github.com/user-attachments/assets/9785594d-64df-4291-bf04-c25e5a969f3c" />
+
+
+
+<img src="https://skillicons.dev/icons?i=ts,tailwind,nextjs" height="28" />
+
+[🌐 lommefasit.no](https://lommefasit.no) · [📂 Repo](https://github.com/AlexanderLislelid/lommefasit)
+
+</td>
+</tr>
+</table>
+
+</details>
+</div>
 
 <br>
 
