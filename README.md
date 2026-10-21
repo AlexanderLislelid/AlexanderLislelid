@@ -7,25 +7,8 @@
 
 </div>
 
----
 
 
-
-
-## 🚧 Currently building
-
-
-
-## 🌱 Currently learning
-
-- Front-end architecture & code organisation
-- Scalable vanilla JS patterns
-- Accessibility (a11y) best practices
-
-## 🤝 Open to
-
-- Beginner-friendly open-source collaboration
-- Feedback on projects and code quality
 
 ## 📫 Contact
 
