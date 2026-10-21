@@ -7,13 +7,32 @@
 
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,express&perline=10" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+</p>
+
+
 
 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-alexlislelid%40gmail.com-%23818cf8?style=flat-square&logo=gmail&logoColor=white)](mailto:alexlislelid@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%234f46e5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-lislelid-270a74333/)
+
+[![Email](https://img.shields.io/badge/Email-818cf8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexlislelid@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-lislelid-270a74333/)
+
 
 </div>
 
+<div align="center">
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:4f46e5,100:6d28d9&height=120&section=footer)
+
+</div>
